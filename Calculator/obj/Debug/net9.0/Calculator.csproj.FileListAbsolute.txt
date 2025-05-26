@@ -12,3 +12,4 @@
 /Users/winniekwok/IdeaProjects/MSCSharp/Calculator/Calculator/obj/Debug/net9.0/Calculator.pdb
 /Users/winniekwok/IdeaProjects/MSCSharp/Calculator/Calculator/obj/Debug/net9.0/Calculator.genruntimeconfig.cache
 /Users/winniekwok/IdeaProjects/MSCSharp/Calculator/Calculator/obj/Debug/net9.0/ref/Calculator.dll
+/Users/winniekwok/IdeaProjects/MSCSharp/Calculator/Calculator/obj/Debug/net9.0/Calculator.sourcelink.json
