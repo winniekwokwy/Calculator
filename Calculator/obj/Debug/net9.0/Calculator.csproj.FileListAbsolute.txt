@@ -1,0 +1,14 @@
+/Users/winniekwok/IdeaProjects/MSCSharp/Calculator/Calculator/bin/Debug/net9.0/Calculator
+/Users/winniekwok/IdeaProjects/MSCSharp/Calculator/Calculator/bin/Debug/net9.0/Calculator.deps.json
+/Users/winniekwok/IdeaProjects/MSCSharp/Calculator/Calculator/bin/Debug/net9.0/Calculator.runtimeconfig.json
+/Users/winniekwok/IdeaProjects/MSCSharp/Calculator/Calculator/bin/Debug/net9.0/Calculator.dll
+/Users/winniekwok/IdeaProjects/MSCSharp/Calculator/Calculator/bin/Debug/net9.0/Calculator.pdb
+/Users/winniekwok/IdeaProjects/MSCSharp/Calculator/Calculator/obj/Debug/net9.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/winniekwok/IdeaProjects/MSCSharp/Calculator/Calculator/obj/Debug/net9.0/Calculator.AssemblyInfoInputs.cache
+/Users/winniekwok/IdeaProjects/MSCSharp/Calculator/Calculator/obj/Debug/net9.0/Calculator.AssemblyInfo.cs
+/Users/winniekwok/IdeaProjects/MSCSharp/Calculator/Calculator/obj/Debug/net9.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/winniekwok/IdeaProjects/MSCSharp/Calculator/Calculator/obj/Debug/net9.0/Calculator.dll
+/Users/winniekwok/IdeaProjects/MSCSharp/Calculator/Calculator/obj/Debug/net9.0/refint/Calculator.dll
+/Users/winniekwok/IdeaProjects/MSCSharp/Calculator/Calculator/obj/Debug/net9.0/Calculator.pdb
+/Users/winniekwok/IdeaProjects/MSCSharp/Calculator/Calculator/obj/Debug/net9.0/Calculator.genruntimeconfig.cache
+/Users/winniekwok/IdeaProjects/MSCSharp/Calculator/Calculator/obj/Debug/net9.0/ref/Calculator.dll
