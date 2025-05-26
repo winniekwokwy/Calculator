@@ -6,22 +6,48 @@ Console.WriteLine("==========================");
 Console.Write("Please enter the operator :");
 string oper = Console.ReadLine();
 
-Console.Write("Please enter the first number :");
-int firstNo = int.Parse(Console.ReadLine());
+Console.Write("How many numbers do you want to " + oper + " :");
+int noOfNo = int.Parse(Console.ReadLine());
 
-Console.Write("Please enter the second number :");
-int secondNo = int.Parse(Console.ReadLine());
+int[] noArray = new int[noOfNo];
 
-float result = 0;
+for (int i = 0; i < noOfNo; i++)
+{
+    Console.Write("Please enter number "+(i+1)+" :");
+    noArray[i]= int.Parse(Console.ReadLine());
+}
+
+float result = noArray[0];
 
 if (oper == "+")
-    result = firstNo + secondNo;
+{
+    for (int i = 1; i < noOfNo; i++)
+    {
+        result += noArray[i];
+    }
+
+}
 else if (oper == "-")
-    result = firstNo - secondNo;
+{
+    for (int i = 1; i < noOfNo; i++)
+    {
+        result -= noArray[i];
+    }
+}
 else if (oper == "*")
-    result = firstNo * secondNo;
+{
+    for (int i = 1; i < noOfNo; i++)
+    {
+        result *= noArray[i];
+    }
+}
 else if (oper == "/")
-    result = firstNo / secondNo;
+{
+    for (int i = 1; i < noOfNo; i++)
+    {
+        result /= noArray[i];
+    }
+}
 
 Console.WriteLine("The answer is " + result.ToString());
 Console.ReadLine();
